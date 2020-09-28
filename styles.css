@@ -1,7 +1,7 @@
 body {
     margin-left: 20%;
     margin-right: 20%;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Georgia', serif;
     background-color: #A5C1F1
 }
 
@@ -27,10 +27,11 @@ li {
     padding-left: 10px;
     padding-right: 10px;
     padding-bottom: 5px;
+    font-size: 1em;
 }
 
 h6 {
-    background-color: #B3F1FA
+    color: #B3F1FA;
 }
 
 img {
@@ -38,7 +39,7 @@ img {
 }
 
 figcaption {
-    color: black;
+    color: grey;
     font-size: 13px;
     font-style: oblique;
 }
